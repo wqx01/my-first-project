@@ -1,2 +1,2 @@
-# my-first-project
-This is my first project on GitHub
+# About my first project on Github
+I use a py file named test to built my first project
